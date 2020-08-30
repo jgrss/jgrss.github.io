@@ -8,27 +8,35 @@ image: assets/images/random_color_background.png
 
 <!-- Main -->
 <div id="main" class="alt">
-
-<!-- One -->
 <section id="one">
 	<div class="inner">
 
-        <!-- Content -->
-        
-        <blockquote>I am a geographer by training, with technical expertise in remote sensing and research interests in land change science.</blockquote>
-
-        <div id="main" class="alt">
-        <p>
-        <img src="assets/images/self.jpeg" height="200px" />
-        </p>
+        <div style="float:left;padding-left: 1%;padding-right: 3%">
+            <img src="assets/images/self.jpg" height="275px" />
         </div>
-		
-		<p>
+        
+        <div style="text-align:justify">
+            <p>I am a geographer with technical and domain expertise in remote sensing and land change science. My research activities typically involve the characterization of landscape patterns and the analysis of environmental consequences of human land use decisions. Of special interest to me is regional and global agriculture. More specifically, I am interested in developing timely datasets to help guide policy for food security, to improve estimates on crop production, and to identify patterns of intensification and expansion to protect and conserve native habitats. Additionally, I pursue research questions related to changing agrarian practices and small- and large-holder dynamics. My principle tools are remote sensing, image processing, machine learning, time series statistical analyses, and graph networks.
+            </p>
+        </div>
+        
+    </div>
+
+</section>
+</div>
+
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner" style="padding-top:1em">
+
+        <!-- Content -->
+
         <h2 id="content">Research interests</h2>
-        </p>
         
         <div class="row">
-        <h4>Land use/cover change</h4> <p>|</p> <h4>Landscape patterns & trends</h4> <p>|</p> <h4>Remote sensing</h4> <p>|</p> <h4>Time series analysis</h4> <p>|</p> <h4>Food security</h4> <p>|</p> <h4>Crop monitoring</h4> <p>|</p> <h4>Machine learning</h4> <p>|</p> <h4>Human-environmental interactions</h4>
+        <h4>Land use/cover change</h4> <p>|</p> <h4>Landscape patterns & trends</h4> <p>|</p> <h4>Remote sensing</h4> <p>|</p> <h4>Spatial-temporal analysis</h4> <p>|</p> <h4>Food security</h4> <p>|</p> <h4>Crop monitoring</h4> <p>|</p> <h4>Machine learning</h4> <p>|</p> <h4>Human-environmental interactions</h4>
         </div>
         
 	</div>
@@ -100,7 +108,7 @@ image: assets/images/random_color_background.png
 				<header class="major">
 					<h3>Land use/cover mapping in South America</h3>
 				</header>
-				<p>Working with colleagues at the <a href="https://www.argentina.gob.ar/inta">Instituto Nacional de Tecnolog&iacute;a (INTA)</a> and <a href="https://www.bolsadecereales.com/">Bolsa de Cereales</a>, I am generating land cover and land use maps across the Southern Cone. Our broader goals are to: 1) better understand human- and climate-driven environmental impacts on the region; 2) investigate changes in patterns of small- and large-holder agriculture across space and time; and 3) improve methods for long-term land cover mapping and short-term crop cycle estimates.</p>
+				<p>Working with colleagues at the <a href="https://www.argentina.gob.ar/inta">Instituto Nacional de Tecnolog&iacute;a (INTA)</a> and <a href="https://www.bolsadecereales.com/">Bolsa de Cereales</a>, I am generating land cover and land use maps across the Southern Cone. Broadly, our goals are to: 1) better understand human- and climate-driven environmental impacts on the region; 2) investigate changes in patterns of small- and large-holder agriculture across space and time; and 3) improve methods for long-term land cover mapping and short-term crop cycle estimates.</p>
 			</div>
 		</div>
 	</section>

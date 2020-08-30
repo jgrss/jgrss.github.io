@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tech
-description:
+title: Code
+description: Repositories
 image: assets/images/quito_resize.jpg
 nav-menu: true
 ---
@@ -9,7 +9,7 @@ nav-menu: true
 <div class="6u$ 12u$(medium)">
 
 <!-- Buttons -->
-<h3>Code repositories</h3>
+<h3>GitHub repositories</h3>
 
 <hr>
 
