@@ -108,7 +108,7 @@ image: assets/images/random_color_background.png
 				<header class="major">
 					<h3>Land use/cover mapping in South America</h3>
 				</header>
-				<p>Working with colleagues at the <a href="https://www.argentina.gob.ar/inta">Instituto Nacional de Tecnolog&iacute;a (INTA)</a> and <a href="https://www.bolsadecereales.com/">Bolsa de Cereales</a>, I am generating land cover and land use maps across the Southern Cone. Broadly, our goals are to: 1) better understand human- and climate-driven environmental impacts on the region; 2) investigate changes in patterns of small- and large-holder agriculture across space and time; and 3) improve methods for long-term land cover mapping and short-term crop cycle estimates.</p>
+				<p>Working with colleagues at the <a href="https://www.argentina.gob.ar/inta">Instituto Nacional de Tecnolog&iacute;a (INTA)</a>, <a href="https://www.bolsadecereales.com/">Bolsa de Cereales</a>, and Boston University, I am generating land cover and land use maps across the Southern Cone. Broadly, our goals are to: 1) better understand human- and climate-driven environmental impacts on the region; 2) investigate changes in patterns of small- and large-holder agriculture across space and time; and 3) improve methods for long-term land cover mapping and short-term crop cycle estimates.</p>
 			</div>
 		</div>
 	</section>
