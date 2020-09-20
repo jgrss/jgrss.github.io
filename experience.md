@@ -23,8 +23,8 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 	    <div class="box">
-		<h3>University of Queensland (Sept 2018-present)</h3>
-		<p>I am a <b><i>Research Officer</i></b> at the University of Queensland, where I am cross-appointed at the <a href="https://sees.uq.edu.au/">School of Earth and Environmental Sciences</a> and the <a href="https://www.jrsrp.org.au/">Joint Remote Sensing Research Program</a>.</p>
+		<h3>University of Queensland (Sept 2020-present)</h3>
+		<p>I am a <b><i>Research Fellow</i></b> at the University of Queensland, where I am cross-appointed at the <a href="https://sees.uq.edu.au/">School of Earth and Environmental Sciences</a> and the <a href="https://www.jrsrp.org.au/">Joint Remote Sensing Research Program</a>.</p>
 		</div>
 	</div>
 </div>
@@ -43,6 +43,12 @@ nav-menu: true
 <h2 id="content">Postdoctoral work</h2>
 
 <div class="row">
+	<div class="6u 12u$(small)">
+	    <div class="box">
+		<h3>University of Queensland (Sept 2018 - Sept 2020)</h3>
+		<p>I was a <b><i>Research Officer</i></b> at the University of Queensland, cross-appointed at the <a href="https://sees.uq.edu.au/">School of Earth and Environmental Sciences</a> and the <a href="https://www.jrsrp.org.au/">Joint Remote Sensing Research Program</a>.</p>
+		</div>
+	</div>
 	<div class="6u$ 12u$(small)">
 	    <div class="box">
 		<h3>Boston University (Oct 2016 - July 2018) </h3>
