@@ -71,7 +71,7 @@ image: assets/images/random_color_background.png
 				</header>
 				<p>Together, <a href="https://bren.ucsb.edu/people/robert-heilmayr">Robert Heilmayr</a>, <a href="https://www.mcgill.ca/geography/people-0/yann-le-polain-de-waroux">Yann le Polain de Waroux</a>, and I will develop methods to estimate property values using remotely sensed data, and investigate the relationships between land value and frontier land speculation in Paraguay and Uruguay.</p>
 				<ul class="actions">
-					<li><a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={716BCFE6-52B4-DB7F-B79A-59F3E7EE14A2}&path=closedPast" class="button">Learn more</a></li>
+					<li><a href="https://www.lclucvh3.umd.edu/projects/mapping-property-values-understand-land-use-change-south-america" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
