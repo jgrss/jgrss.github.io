@@ -16,8 +16,8 @@ nav-menu: true
 	<div class="inner">
 		<p>
 		Naomi B Schwartz, T Mitchell Aide, Jordan Graesser, H Ricardo Grau, Mar&iacute;a
-Uriarte (forthcoming) "Reversals of reforestation across Latin America limit climate mitigation
-potential of tropical forests." <i>Frontiers in Forests and Global Change</i>
+Uriarte (2020) "Reversals of reforestation across Latin America limit climate mitigation
+potential of tropical forests." <i>Frontiers in Forests and Global Change</i>, 3:85, doi:<a href="https://www.frontiersin.org/articles/10.3389/ffgc.2020.00085/full">10.3389/ffgc.2020.00085</a>
         </p>
 	    <p>
 	    T. Mitchell Aide, H. Ricardo Grau, Jordan Graesser, Maria Jose Andrade-Nunez, Ezequiel Araoz, Ana P. Barros, Marconi Campos-Cerqueira, Eulogio Chacon-Moreno, Cuesta C. Francisco, Raul Espinoza, Manuel Peralvo, Molly H. Polk, Ximena Rueda, Adriana Sanchez, Kenneth R. Young, Luc&iacute;a Zarba, and Karl S. Zimmerer (2019) “Woody vegetation dynamics in the tropical and subtropical Andes from 2001 to 2014: satellite image interpretation and expert validation." 
