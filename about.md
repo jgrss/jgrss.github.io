@@ -11,16 +11,16 @@ image: assets/images/random_color_background.png
 <section id="one">
 	<div class="inner">
 
-        <div style="float:left;padding-left: 1%;padding-right: 3%">
-            <img src="assets/images/self.jpg" height="275px" />
-        </div>
-        
-        <div style="text-align:justify">
-            <p>I am a geographer with technical and domain expertise in remote sensing and land change science. My research activities typically involve the characterization of landscape patterns and the analysis of environmental consequences of human land use decisions. Of special interest to me is regional and global agriculture. More specifically, I am interested in developing timely datasets to help guide policy for food security, to improve estimates on crop production, and to identify patterns of intensification and expansion to protect and conserve native habitats. Additionally, I pursue research questions related to changing agrarian practices and small- and large-holder dynamics. My principle tools are remote sensing, image processing, machine learning, time series statistical analyses, and graph networks.
-            </p>
-        </div>
-        
+    <div style="float:left;padding-left: 1%;padding-right: 3%">
+        <img src="assets/images/self.jpg" height="275px" />
     </div>
+            
+    <div style="text-align:justify">
+    <p>I am a geographer with technical and domain expertise in remote sensing and land change science. My research activities typically involve the characterization of landscape patterns and the analysis of environmental consequences of human land use decisions. Of special interest to me is regional and global agriculture. More specifically, I am interested in developing timely datasets to help guide policy for food security, to improve estimates on crop production, and to identify patterns of intensification and expansion to protect and conserve native habitats. Additionally, I pursue research questions related to changing agrarian practices and small- and large-holder dynamics. My principle tools are remote sensing, image processing, machine learning, time series statistical analyses, and graph networks.
+    </p>
+    </div>
+
+</div>
 
 </section>
 </div>
@@ -52,7 +52,7 @@ image: assets/images/random_color_background.png
         </div>
 	</section>
 	<section>		
-		<img src="assets/images/qld_regrowth.jpg" />
+		<!--<img src="assets/images/qld_regrowth.jpg" />-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -63,7 +63,7 @@ image: assets/images/random_color_background.png
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/pry_crop_species_ink.png" />
+		<!--<img src="assets/images/pry_crop_species_ink.png" />-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -71,13 +71,13 @@ image: assets/images/random_color_background.png
 				</header>
 				<p>Together, <a href="https://bren.ucsb.edu/people/robert-heilmayr">Robert Heilmayr</a>, <a href="https://www.mcgill.ca/geography/people-0/yann-le-polain-de-waroux">Yann le Polain de Waroux</a>, and I will develop methods to estimate property values using remotely sensed data, and investigate the relationships between land value and frontier land speculation in Paraguay and Uruguay.</p>
 				<ul class="actions">
-					<li><a href="https://www.lclucvh3.umd.edu/projects/mapping-property-values-understand-land-use-change-south-america" class="button">Learn more</a></li>
+					<li><a href="https://lcluc.umd.edu/projects/mapping-property-values-understand-land-use-change-south-america" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/salta_tobacco.jpg" />
+		<!--<img src="assets/images/salta_tobacco.jpg" />-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -91,7 +91,7 @@ image: assets/images/random_color_background.png
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/series_multi_crop_pres.png" />
+		<!--<img src="assets/images/series_multi_crop_pres.png" />-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -102,7 +102,7 @@ image: assets/images/random_color_background.png
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/pheno_lc.png" />
+		<!--<img src="assets/images/pheno_lc.png" />-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
