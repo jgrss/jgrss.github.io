@@ -21,10 +21,21 @@ nav-menu: true
 <h2 id="content">Current position</h2>
 
 <div class="row">
+        <div class="6u 12u$(small)">
+            <div class="box">
+                <h3>Indigo Ag (July 2021-present)</h3>
+                <p>I am a <b><i>Senior Data Scientist</i></b> at <a href="https://www.indigoag.com/">Indigo Ag</a>.</p>
+                </div>
+        </div>
+</div>
+
+<h2 id="content">Previous position</h2>
+
+<div class="row">
 	<div class="6u 12u$(small)">
 	    <div class="box">
-		<h3>University of Queensland (Sept 2020-present)</h3>
-		<p>I am a <b><i>Research Fellow</i></b> at the University of Queensland, where I am cross-appointed at the <a href="https://sees.uq.edu.au/">School of Earth and Environmental Sciences</a> and the <a href="https://www.jrsrp.org.au/">Joint Remote Sensing Research Program</a>.</p>
+		<h3>University of Queensland (Sept 2020-July 2021)</h3>
+		<p>I was a <b><i>Research Fellow</i></b> at the University of Queensland, where I was cross-appointed at the <a href="https://sees.uq.edu.au/">School of Earth and Environmental Sciences</a> and the <a href="https://www.jrsrp.org.au/">Joint Remote Sensing Research Program</a>.</p>
 		</div>
 	</div>
 </div>
