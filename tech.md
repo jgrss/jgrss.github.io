@@ -14,7 +14,7 @@ nav-menu: true
 <hr>
 
 <ul class="actions">
-    <li><img src="assets/images/gw_logo.png" height="150px" /></li>
+    <li><img src="assets/images/gw_logo.png" height="50px" /></li>
 	<li><a href="https://geowombat.readthedocs.io" class="button">see more on github</a></li>
 	<blockquote>A Python library for raster and vector utilities</blockquote> 
 </ul>
