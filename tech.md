@@ -69,7 +69,19 @@ with gw.config.update(sensor='s2'):
 <ul class="actions">
 	<li><h2>SatSmooth</h2></li>
     	<li><a href="https://github.com/jgrss/satsmooth" class="button">see more on github</a></li>
+    	<li><a href="https://ieeexplore.ieee.org/document/9701288" class="button">read the paper</a></li>
         <blockquote>A Python library for smoothing satellite signals</blockquote>
+</ul>
+</div>
+
+<hr>
+
+<div class="6u$ 12u$(medium)">
+
+<ul class="actions">
+        <li><h2>Geosample</h2></li>
+        <li><a href="https://github.com/jgrss/geosample" class="button">see more on github</a></li>
+        <blockquote>A Python library for 'Spatially balanced sampling with Generalized Random Tessellation Stratified (GRTS)'</blockquote>
 </ul>
 </div>
 
