@@ -60,6 +60,14 @@ with gw.config.update(sensor='s2'):
     	<li><a href="https://github.com/jgrss/cultionet" class="button">see more on github</a></li>
         <blockquote>A Python library for semantic segmentation of cultivated land using graph neural networks</blockquote>
 </ul>
+
+<p>
+<div>
+<b>What can I use it for?</b>
+</div>
+<div>- Segmentation of agricultural crop fields over satellite image time series</div>
+</p>
+
 </div>
 
 <hr>
@@ -72,6 +80,14 @@ with gw.config.update(sensor='s2'):
     	<li><a href="https://ieeexplore.ieee.org/document/9701288" class="button">read the paper</a></li>
         <blockquote>A Python library for smoothing satellite signals</blockquote>
 </ul>
+
+<p>
+<div>
+<b>What can I use it for?</b>
+</div>
+<div>- Reconstruction of regularly gridded time series signals</div>
+</p>
+
 </div>
 
 <hr>
@@ -83,6 +99,14 @@ with gw.config.update(sensor='s2'):
         <li><a href="https://github.com/jgrss/geosample" class="button">see more on github</a></li>
         <blockquote>A Python library for 'Spatially balanced sampling with Generalized Random Tessellation Stratified (GRTS)'</blockquote>
 </ul>
+
+<p>
+<div>
+<b>What can I use it for?</b>
+</div>
+<div>- Spatially balanced random samples</div>
+</p>
+
 </div>
 
 <hr>
