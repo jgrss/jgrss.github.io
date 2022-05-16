@@ -14,6 +14,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
+	<p>
+	Jordan Graesser, Radost Stanimirova, and Mark A. Friedl (2022) “Reconstruction of satellite time series with a dynamic smoother." <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, doi:<a href=10.1109/JSTARS.2022.3146081</a>.
+	</p>
 		<p>
 		Naomi B Schwartz, T Mitchell Aide, Jordan Graesser, H Ricardo Grau, Mar&iacute;a
 Uriarte (2020) "Reversals of reforestation across Latin America limit climate mitigation
