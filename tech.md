@@ -56,18 +56,22 @@ with gw.config.update(sensor='s2'):
 <div class="6u$ 12u$(medium)">
 
 <ul class="actions">
-    <li><a href="https://github.com/jgrss/cultionet" class="button">see more on github</a></li>
+	<li><h2>cultionet</h2></li>
+    	<li><a href="https://github.com/jgrss/cultionet" class="button">see more on github</a></li>
         <blockquote>A Python library for semantic segmentation of cultivated land using graph neural networks</blockquote>
 </ul>
+</div>
 
 <hr>
 
 <div class="6u$ 12u$(medium)">
 
 <ul class="actions">
-    <li><a href="https://github.com/jgrss/satsmooth" class="button">see more on github</a></li>
+	<li><h2>SatSmooth</h2></li>
+    	<li><a href="https://github.com/jgrss/satsmooth" class="button">see more on github</a></li>
         <blockquote>A Python library for smoothing satellite signals</blockquote>
 </ul>
+</div>
 
 <hr>
 
