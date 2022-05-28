@@ -1,7 +1,7 @@
 # site settings
 title: JG
 subtitle:
-email: jgraesser@indigoag.com
+email: 
 description: Researcher in land change science
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -20,11 +20,11 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/jgrss
+github_url: https://github.com/jgrss/
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/jordan-graesser/
 pinterest_url:
 slack_url:
 twitter_url:
