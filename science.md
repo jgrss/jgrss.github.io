@@ -16,6 +16,10 @@ nav-menu: true
 	<div class="inner">
 
 		<p>
+		Radost Stanimirova, Jordan Graesser, Pontus Olofsson, and Mark A. Friedl (2022) “Widespread changes in 21st century vegetation cover in Argentina, Paraguay, and Uruguay." <i>Remote Sensing of Environment</i>, 282(1):113277, doi:10.1016/j.rse.2022.113277.
+		</p>
+
+		<p>
 		Jordan Graesser, Radost Stanimirova, Katelyn Tarrio, Esteban J. Copati, Jos&eacute; N. Volante, Santiago R. Ver&oacute;n, Santiago Banchero, Hernan Elena, Diego de Abelleyra, and Mark A. Friedl (2022) “Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America." <i>Remote Sensing</i>, 14(16):4005, doi:<a href="https://www.mdpi.com/2072-4292/14/16/4005">10.3390/rs14164005</a>.
 		</p>
 
@@ -98,7 +102,7 @@ Applied Earth Observations and Remote Sensing</i>, 5(4):1164–1176, doi:<a href
 	    <p>
 	    Darrell Napton and Jordan Graesser (2011) "Agricultural land change in the northwestern Corn Belt: 1972-2007." <i>Geo-Carpathica Anul XI</i>, 11:65–81, <a href="https://d1wqtxts1xzle7.cloudfront.net/43104412/Agricultural_land_change_in_the_northwes20160226-27802-o1d4ad.pdf?1456507198=&response-content-disposition=inline%3B+filename%3DAgricultural_land_change_in_the_northwes.pdf&Expires=1597358855&Signature=ZxFL28~hdk7FaMUd-Y3wgCII3pljXn~HdQl1yzRtuMPT5WxT1YCH7lOkLtyesSD-KQDOsGzJRPC645yLkitqoDHvU-fvw2keQ9VMCei-vYMW3gR9V9LFERbxdiOB2FFXLkVInv0F78ATKpWXuULYc4MQusFTOXrPzRPPnccneFstJvTXmMaWeIvkLk3V2A95~UqQF-n505mzvNFOQyZ7CSaMyyzacBP50cJ9kIk8PKLPC3BtilfLQY5X9IdB3c-G31O5INiIXu15Lbnf0uc7ich~zyjS-51eFcq8KrV89tR1n3LRlP9rTwrdfYvcT63Lo08iCPjRk-4BIEH3FaDSnA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">link</a>.
 	    </p>
-		
+
 	    <p>
 	    Derek Azar, Jordan Graesser, Ryan Engstrom, Joshua Comenetz, Robert M. Leddy
 Jr., Nancy G. Schechtman, and Theresa Andrews (2010) "Spatial refinement of
